@@ -7,7 +7,7 @@ For easily execute the code, it is better to first make sure that the required v
 
 now you should add QRcode's library to your project :
 
-* install deepface
+* install qrcode
 
    ```sh
    pip install qrcode
