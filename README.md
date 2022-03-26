@@ -26,5 +26,4 @@ Feedback - [Instagram](https://instagram.com/im.awrsha?utm_medium=copy_link) - o
 YouTube Link for this Project: [QRcode](https://youtu.be/kdd1MiCck-I)
 
 Support me if you like it :
-[Buy me a coffee](https://www.buymeacoffee.com/HydraLearn)
-[Ko-fi](ko-fi.com/hydralearn)
+[Buy me a coffee](https://www.buymeacoffee.com/HydraLearn) and [Ko-fi](ko-fi.com/hydralearn)
