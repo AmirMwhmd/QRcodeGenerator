@@ -26,4 +26,4 @@ No License :) . Yes it's `Free` for you.
 
 Your Name - [Instagram](https://instagram.com/im.awrsha?utm_medium=copy_link) - official.parvizi@gmail.com
 
-Project Link: [QRcode](https://github.com/AmirMwhmd/QRcode)
+YouTube Link for this Project: [QRcode](https://youtu.be/kdd1MiCck-I)
